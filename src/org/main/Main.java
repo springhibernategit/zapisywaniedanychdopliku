@@ -18,7 +18,7 @@ public class Main {
 		nazwy.add("cztery");
 		nazwy.add("piêæ");
 		nazwy.add("szeœæ");
-		nazwy.add("siedem");
+		nazwy.add("osiem");
 
 		File file = new File("dane.txt"); // tworzy obiekt pliku
 		BufferedWriter bufferedWriter = null;
